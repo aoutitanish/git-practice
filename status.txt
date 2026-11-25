@@ -1,2 +1,1 @@
 Version B conflict-test
-Synced after pull
